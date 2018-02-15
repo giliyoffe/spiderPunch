@@ -1,0 +1,14 @@
+#punchFace{
+	height: 40%;
+	width: 40%;
+    /*display: block;*/
+    margin-left: 14em;
+
+     /* Rotate img cuz original crooked */
+    -ms-transform: rotate(14deg); /* IE 9 */
+    -webkit-transform: rotate(14deg); /* Safari 3-8 */
+    transform: rotate(14deg);
+}
+#rightHand{
+	width:23%;
+}
