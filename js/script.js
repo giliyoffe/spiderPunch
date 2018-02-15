@@ -1,6 +1,6 @@
 
 
-// bug: every punch the setInterval becomes faster when returning the fist - eventualy u dont c the punch happening
+// bug: every punch the setInterval becomes faster when returning the fist - eventually u dont c the punch happening
  // face = document.getElementById("punchFace").src; //doesnt work
  // rightHand = document.getElementById("rightHand"); //doesnt work
 
